@@ -1,2 +1,9 @@
-# RobotFrameworkPortfolio_Prabin
-A simple robotframework repository for testcases to automate a Demo Website with various functionalities
+# 🤖 Robot Framework Test Automation Project
+
+Welcome to the Robot Framework test automation suite! This repository contains end-to-end test cases designed using [Robot Framework](https://robotframework.org/), a generic test automation framework for acceptance testing and robotic process automation (RPA).
+
+---
+
+## 📁 Project Structure
+
+
